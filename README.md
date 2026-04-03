@@ -14,7 +14,7 @@
 
 **GitHub Repository:** [https://github.com/Dark-fire777/skillsync](https://github.com/Dark-fire777/SkillSync)
 
-> ⚠️ Replace `YOUR_USERNAME` with your actual GitHub username after pushing.
+
 
 ---
 
