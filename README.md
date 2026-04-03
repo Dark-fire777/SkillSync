@@ -36,12 +36,13 @@
 
 ```
 skillsync/
-├── app.py                  # Flask REST API + ML engine (v3.0)
-├── frontend.html           # Single-file frontend (HTML/CSS/JS)
+├── skillsync_app.py                  # Flask REST API + ML engine (v3.0)
+├── skillsync_frontend.html           # Single-file frontend (HTML/CSS/JS)
 ├── colab_launcher.ipynb    # Google Colab one-click launcher
 ├── requirements.txt        # Python dependencies
 ├── .gitignore
 └── README.md
+|__ Skillsync_Colab_Launcher.ipynb     #Google colab notebook
 ```
 
 ---
