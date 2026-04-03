@@ -12,7 +12,7 @@
 
 ## 🔗 Project Link
 
-**GitHub Repository:** [https://github.com/YOUR_USERNAME/skillsync](https://github.com/YOUR_USERNAME/skillsync)
+**GitHub Repository:** [https://github.com/YOUR_USERNAME/skillsync](https://github.com/Dark-fire777/SkillSync)
 
 > ⚠️ Replace `YOUR_USERNAME` with your actual GitHub username after pushing.
 
